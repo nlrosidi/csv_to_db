@@ -9,3 +9,5 @@ This short python tool leverages Pandas to read in a CSV file and identify colum
 - e.g., a header "Sample Header" will be renamed to "sample_header" to ensure proper import into the db
 
 The largest file tested was 6gb. 
+
+*note that this tool is written to specifically run using Google CoLab. You can modify to run on your local machine by editing the file upload code. 
